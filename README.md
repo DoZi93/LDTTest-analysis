@@ -1,6 +1,6 @@
 # LDTTest-analysis
 
-Repository containing the workflow implemented for analysing the data obtained from the Light/Dark Transition Test using the DanioVision Chamber by Noldus. A popular analysis method used in behavioural ecotoxicology to characterize effects of neurotoxic chemicals on *Danio rerio*.
+Repository containing the workflow implemented for analysing the data obtained from the Light/Dark Transition Test using the DanioVision Chamber by Noldus. It is a popular test method used in behavioural ecotoxicology to characterize effects of neurotoxic chemicals on *Danio rerio*.
 
 ## Structure
 The workflow is separated into four different scripts, each serving one different purpose within the analysis workflow.
